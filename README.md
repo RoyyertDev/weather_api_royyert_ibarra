@@ -157,7 +157,7 @@ Authorization: Bearer tu_token_de_accesso
 
 ```json
 {
-    "body": "London"
+    "city": "London"
 }
 ```
 
