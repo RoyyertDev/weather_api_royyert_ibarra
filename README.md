@@ -35,7 +35,7 @@ Desarrollada por Royyert Ibarra como prueba técnica Senior Laravel.
 
 1. Clonar el repositorio:
     ```bash
-    git clone https://github.com/RoyyertDev/tu_repositorio.git
+    git clone https://github.com/RoyyertDev/weather_api_royyert_ibarra.git
     ```
 2. Acceder a la carpeta del proyecto:
     ```bash
