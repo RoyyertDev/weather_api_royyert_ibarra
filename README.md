@@ -39,7 +39,7 @@ Desarrollada por Royyert Ibarra como prueba técnica Senior Laravel.
     ```
 2. Acceder a la carpeta del proyecto:
     ```bash
-    cd tu_repositorio/tu_proyecto
+    cd weather_api_royyert_ibarra
     ```
 3. Instalar dependencias:
     ```bash
